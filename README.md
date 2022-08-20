@@ -1,7 +1,3 @@
-
-Welcome file
-
-
 # Schematic and PCB liblaries for Altium
 This is an **open-source** project for my fellow electronic engineers. I have collected every component I created for my projects. You can freely use these libraries for your project without beginning from scratch. If you want to contribute to this project send me a message to add you as a collaborator.
 
